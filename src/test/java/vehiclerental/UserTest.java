@@ -22,6 +22,6 @@ public class UserTest {
         user.minusBalance(300);
 
         assertEquals(9700,user.getBalance());
-    }
+   }
 
 }
